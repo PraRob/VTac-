@@ -1,4 +1,4 @@
-# VTac-
+# VTac
 
 The dataset comprises image sequences that represent the texture of different objects grasped by a vision-based sensor, and can be used for the purposes of object classification amongst other things. The dataset is divided by the use of either a gel-type sensor, or a pneumatic-type sensor. The details of the construction of these two types of sensors can be found in the papers referenced at the end.  
 
