@@ -2,6 +2,10 @@
 
 The dataset comprises image sequences that represent the texture of different objects grasped by a vision-based sensor, and can be used for the purposes of object classification amongst other things. The dataset is divided by the use of either a gel-type sensor, or a pneumatic-type sensor. The details of the construction of these two types of sensors can be found in the papers referenced at the end.  
 
+![Data_collection_Tools](https://github.com/PraRob/VTac-/assets/131763612/3503129d-21c6-44df-947e-7d678eb71100) 
+
+![Data_colltectcion_3Dinfill](https://github.com/PraRob/VTac-/assets/131763612/97c9f59e-8cdf-4cb8-8d5d-5cef3a6b0acf)
+
 
 
 The gel-type vision-based tactile sensor section contains 2000 PNG images for each of 9 different carbide tools, each image having pixel dimensions 228x228.  
