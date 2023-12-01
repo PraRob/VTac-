@@ -6,19 +6,17 @@ The dataset comprises image sequences that represent the texture of different ob
 
 ![Data_colltectcion_3Dinfill](https://github.com/PraRob/VTac-/assets/131763612/97c9f59e-8cdf-4cb8-8d5d-5cef3a6b0acf)
 
-
-
 The gel-type vision-based tactile sensor section contains 2000 PNG images for each of 9 different carbide tools, each image having pixel dimensions 228x228.  
 
 Complementing the gel-type sensor data, the dataset also contains image sequences collected using a pneumatic-type sensor. This includes the textures of 7 types of 3D priting infill patterns, as well as profiles of 11 types of handtools. Each object is represented by 250 PNG images of pixel dimension 228x228. 
 
- This comprehensive dataset, has applications in robotics, automation, and the broader spectrum of tactile sensing. 
+This comprehensive dataset, has applications in robotics, automation, and the broader spectrum of tactile sensing. 
 
 This structure reflects the hierarchy of the dataset, with each level representing a different aspect of the data (e.g., images) and subdirectories further organising the data based on types. 
 
 
 
-**VTac **
+# VTac 
 
 |—-gel_type_vision 
 
@@ -85,7 +83,7 @@ This structure reflects the hierarchy of the dataset, with each level representi
 
 
  
-**Publications  **
+# Publications
 
 1. Design and development of a robust vision-based tactile sensor- https://orca.cardiff.ac.uk/id/eprint/149803/ 
 
