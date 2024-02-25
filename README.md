@@ -85,7 +85,25 @@ This structure reflects the hierarchy of the dataset, with each level representi
  
 # Publications
 
-1. Design and development of a robust vision-based tactile sensor- https://orca.cardiff.ac.uk/id/eprint/149803/ 
+```latex
+@inproceedings{rayamane2023pnutac,
+  title={PnuTac: A vision-based pneumatic tactile sensor for slip detection and object classification},
+  author={Rayamane, Prasad and Herbert, Peter and Munguia-Galeano, Francisco and Ji, Ze},
+  booktitle={2023 29th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
+```
 
-2. PnuTac: A vision-based pneumatic tactile sensor for slip detection and object classification - https://orca.cardiff.ac.uk/id/eprint/162820/ 
+```latex
+@inproceedings{rayamane2023towards,
+  title={Towards smooth human-robot handover with a vision-based tactile sensor},
+  author={Rayamane, Prasad and Munguia-Galeano, Francisco and Tafrishi, Seyed Amir and Ji, Ze},
+  booktitle={Annual Conference Towards Autonomous Robotic Systems},
+  pages={431--442},
+  year={2023},
+  organization={Springer}
+}
+```
 
